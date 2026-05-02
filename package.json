@@ -4,15 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "export": "next export"
+    "build": "next build"
   },
   "dependencies": {
-    "next": "^12.1.5",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "next": "^15",
+    "react": "^19",
+    "react-dom": "^19"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^4.8.0"
+    "@netlify/plugin-nextjs": "^5"
   }
 }

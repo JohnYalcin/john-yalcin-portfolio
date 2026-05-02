@@ -4,14 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Next.js v12 portfolio site for John Yalcin, deployed to Netlify. It is a minimal starter built with `create-next-app` and uses the `@netlify/plugin-nextjs` build plugin for SSR/ISR support via Netlify Functions.
+This is a Next.js v15 portfolio site for John Yalcin, deployed to Netlify. It is a minimal starter built with `create-next-app` and uses the `@netlify/plugin-nextjs` build plugin for SSR/ISR support via Netlify Functions.
 
 ## Commands
 
 ```bash
-npm run dev      # Start development server at http://localhost:3000
-npm run build    # Build for production
-npm run export   # Export static site
+npm run dev    # Start development server at http://localhost:3000
+npm run build  # Build for production
 ```
 
 There are no tests or linting scripts configured.
